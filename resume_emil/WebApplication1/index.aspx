@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="WebForm1.aspx.vb" Inherits="WebApplication1.WebForm1" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="index.aspx.vb" Inherits="WebApplication1.WebForm1" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -41,37 +41,6 @@ div.full_width div{color:#666666; background-color:#DEDEDE;}
       <li><a class="drop" href="#">Drop 1</a>
         <ul>
           <li><a href="#">Level 2</a></li>
-          <li><a href="#">Level 2</a></li>
-          <li><a class="drop" href="#">Level 2 + Drop</a>
-            <ul>
-              <li><a href="#">Level 3</a></li>
-              <li><a class="drop" href="#">Level 3 + Drop</a>
-                <ul>
-                  <li><a href="#">Level 4</a></li>
-                  <li><a href="#">Level 4</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Level 3</a></li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li><a href="#">Style Demo</a></li>
-      <li><a href="#">Full Width</a></li>
-      <li><a href="#">Gallery</a></li>
-      <li><a href="#">Portfolio</a></li>
-      <li><a href="#">A Long Link Text Here</a></li>
-      <li class="last-child"><a class="drop" href="#">Drop 2</a>
-        <ul>
-          <li><a href="#">Level 2</a></li>
-          <li><a href="#">Level 2</a></li>
-          <li><a class="drop" href="#">Level 2 + Drop</a>
-            <ul class="negative">
-              <li><a href="#">Level 3</a></li>
-              <li><a href="#">Level 3</a></li>
-              <li><a href="#">Level 3</a></li>
-            </ul>
-          </li>
         </ul>
       </li>
     </ul>
