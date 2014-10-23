@@ -13,14 +13,5 @@ Option Explicit On
 Namespace WebApplication1
 
     Partial Public Class WebForm1
-
-        '''<summary>
-        '''Control form.
-        '''</summary>
-        '''<remarks>
-        '''Campo generado automáticamente.
-        '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        '''</remarks>
-        Protected WithEvents form As Global.System.Web.UI.HtmlControls.HtmlForm
     End Class
 End Namespace
